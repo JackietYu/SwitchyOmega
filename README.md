@@ -1,0 +1,2 @@
+# SwitchyOmega
+google chrome setting
