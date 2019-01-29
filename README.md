@@ -1,2 +1,2 @@
 # SwitchyOmega
-google chrome setting
+ This is my google chrome setting ,some of it are not included by The Greast**list
